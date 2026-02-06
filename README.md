@@ -4,13 +4,27 @@
 
 ## These agents learn during live gameplay while also considering real-time constraints and performance.
 
+![Demo](media/VisorGUI.gif)
+
+![Demo](media/Damage.gif)
+
+![Demo](media/Inventory.gif)
+
+![Demo](media/BlenderAnim.gif)
+
+![Demo](media/Agent.gif)
+
+![Demo](media/MapGenerationSmall.png)
+
+![Demo](media/MapGenerationBig.png)
+
 -- things to showcase
 Map Generation Module
-Weapon Animations
-Damage system
-Camera sway motion
-Sprint system
-Loadout system
-Visor GUI
-Inventory item dragging system
+Weapon Animations done
+Damage system done
+Camera sway motion done
+Sprint system done
+Loadout system done
+Visor GUI done
+Inventory item dragging system done
 
