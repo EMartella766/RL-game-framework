@@ -30,7 +30,7 @@ The Weapons framework module includes a working firing system with weapon reload
 
 ![Demo](media/Damage.gif)
 
-(Bit of a blender workflow, while I was learning how to manipulate graphs to simulate physics)
+(Bit of a blender workflow, while I was learning graphs to simulate physics)
 
 ![Demo](media/BlenderAnim.gif)
 
